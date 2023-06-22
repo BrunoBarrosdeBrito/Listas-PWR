@@ -16,7 +16,7 @@
     </ul>
     <h1>Programa Usado para Programar</h1>
     <img src="https://code.visualstudio.com/assets/apple-touch-icon.png" alt="logo" width="50" height="50"><p>Visual Studio Code</p>   
-    <h1>📍Vesão</h1>
+    <h1>📍Versão</h1>
     <p>1.0v ou versão única</p>
     <h1>✍️Autores</h1>
     <p>Bruno Barros de Brito - Programador Iniciante</p>
